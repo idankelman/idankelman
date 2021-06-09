@@ -17,7 +17,7 @@
 <samp>
  <b><h2 style="color: #fc6203">S E E &nbsp;M O R E</h2> </b>
 
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+<img src="https://media3.giphy.com/media/ixzAG6ndhFIw5mS8LL/giphy.gif?cid=790b7611a55cbda791f900d1a41b652dad2e8d44622a1a92&rid=giphy.gif&ct=s" width="200"/>
 
 Current Project: <a href="https://github.com/idankelman/Typing_Website">Typing Wbsite For Programmers.</a>
 
