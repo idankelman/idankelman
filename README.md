@@ -6,7 +6,7 @@
 
 </samp>
 
-  <img src="https://media3.giphy.com/media/eKVQGBN9NTV2vNpqZA/giphy.gif?cid=ecf05e47jv9g6oekvgkqhtrkaxsoc4h7fp5s0e3z9xmkxcu7&rid=giphy.gif&ct=g" width="200"/>
+  <img src="https://thumbs.gfycat.com/AssuredAmpleBorer-size_restricted.gif" width="200"/>
 
 </p>
 
