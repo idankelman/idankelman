@@ -6,7 +6,7 @@
 
 </samp>
 
-  <img src="https://data.whicdn.com/images/319365309/original.gif" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Conways_game_of_life_breeder_animation.gif" width="200"/>
 
 </p>
 
