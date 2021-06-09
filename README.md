@@ -22,7 +22,7 @@
 Current Project: <a href="https://github.com/idankelman/Typing_Website">Typing Wbsite For Programmers.</a>
 
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="www.linkedin.com/in/idan-kelman-6a29081b2">
+  <a rel="www.linkedin.com/in/idan-kelman-6a29081b2" target="_blank" href="www.linkedin.com/in/idan-kelman-6a29081b2">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="30px" alt="LinkedIn"></a>
   &nbsp; 
   &nbsp;
