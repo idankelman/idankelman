@@ -6,7 +6,7 @@
 
 </samp>
 
-  <img src="https://thumbs.gfycat.com/AssuredAmpleBorer-size_restricted.gif" width="200"/>
+  <img src="http://idanke.mysoft.jce.ac.il/Assests/Dougnut_Code.gif" width="200"/>
 
 </p>
 
