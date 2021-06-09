@@ -30,8 +30,8 @@ Current Project: <a href="https://github.com/idankelman/Typing_Website">Typing W
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp; 
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCbBb1mcQ3nG-5B5Md5wJXzw">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
+  <a rel="nofollow noopener noreferrer" target="_blank" href="kelmanidan@gmail.com">
+  <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="30px" alt="YouTube"></a>
   &nbsp;
   &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
