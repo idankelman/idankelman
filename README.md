@@ -34,8 +34,8 @@ Current Project: <a href="https://github.com/idankelman/Typing_Website">Typing W
   <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="30px" alt="YouTube"></a>
   &nbsp;
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
+  <a rel="https://api.whatsapp.com/send?phone=0549764489" target="_blank" href="https://api.whatsapp.com/send?phone=0549764489">
+  <img src="https://1.bp.blogspot.com/-zNhb4Jlgjh8/XxFkwihoQ8I/AAAAAAAACS8/tRHsoYUHMXUGbZOPMPIVw48olh6jSqEbwCPcBGAYYCw/s400/whatsapp-logo-2.png" width="23px" alt="Secret"></a>
 </p> 
 
 
