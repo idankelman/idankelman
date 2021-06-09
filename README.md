@@ -1,12 +1,12 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Tan</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Idan</a></b>.
     <br>I'm a Computer Software Engineering Undergraduate Student from ISR - Jerusalem .<br>
 
 </samp>
 
-  <img src="https://hackaday.com/wp-content/uploads/2020/07/spinning-donut-featured.gif" width="200"/>
+  <img src="https://data.whicdn.com/images/319365309/original.gif" width="200"/>
 
 </p>
 
@@ -43,6 +43,3 @@ Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dij
 </details>
 
 ----
-Credits: [TanZng](https://github.com/TanZng)
-
-Last Edited on: 31/08/2020
