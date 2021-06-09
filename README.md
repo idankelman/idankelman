@@ -35,7 +35,7 @@ Current Project: <a href="https://github.com/idankelman/Typing_Website">Typing W
   &nbsp;
   &nbsp;
   <a rel="https://api.whatsapp.com/send?phone=0549764489" target="_blank" href="https://api.whatsapp.com/send?phone=0549764489">
-  <img src="https://1.bp.blogspot.com/-zNhb4Jlgjh8/XxFkwihoQ8I/AAAAAAAACS8/tRHsoYUHMXUGbZOPMPIVw48olh6jSqEbwCPcBGAYYCw/s400/whatsapp-logo-2.png" width="23px" alt="Secret"></a>
+  <img src="https://1.bp.blogspot.com/-PM8_Rig8V0M/XxFkv-2f3hI/AAAAAAAACSU/vB1BqbuhFCMyJ8OGCVstFiMLFmavCLqrwCPcBGAYYCw/s400/whatsapp-logo-1.png" width="23px" alt="Secret"></a>
 </p> 
 
 
