@@ -13,9 +13,9 @@
 
 <details align="center">
 
-<summary> <b> <samp> S O C I A L </samp></b></summary>
+<summary> <b> <samp>See More</samp></b></summary>
 <samp>
- <b><h2 style="color: #fc6203">S E E &nbsp;M O R E</h2> </b>
+ <b><h2 style="color: #fc6203">A B O U T &nbsp;M E</h2> </b>
 
 <img src="https://media3.giphy.com/media/ixzAG6ndhFIw5mS8LL/giphy.gif?cid=790b7611a55cbda791f900d1a41b652dad2e8d44622a1a92&rid=giphy.gif&ct=s" width="200"/>
 
