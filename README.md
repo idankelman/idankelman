@@ -13,7 +13,7 @@
 
 <details align="center">
 
-<summary> <b> <samp> Light bonfire </samp></b></summary>
+<summary> <b> <samp> S O C I A L </samp></b></summary>
 <samp>
  <b><h2 style="color: #fc6203">S E E &nbsp;M O R E</h2> </b>
 
