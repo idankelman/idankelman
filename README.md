@@ -20,7 +20,7 @@
 <img src="https://media3.giphy.com/media/ixzAG6ndhFIw5mS8LL/giphy.gif?cid=790b7611a55cbda791f900d1a41b652dad2e8d44622a1a92&rid=giphy.gif&ct=s" width="200"/>
  
   <br>I'm a passionate software develeoper , and I find interest in  new challanges .<br>
-   Simulation of physical processes , scientific programming , creative programming []
+   Simulation of physical processes , scientific programming , artistic creative coding [Lorenz Attractor , Fractals ]
  <br> for impression of my current and past projects , you are welcome to browse my repository 
  
 
