@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Idan</a></b>.
-    <br>I'm a Computer Software Engineering Undergraduate Student from Israek- Jerusalem .<br>
+    <br>I'm a Computer Software Engineering Undergraduate Student from Israel- Jerusalem .<br>
 
 </samp>
 
