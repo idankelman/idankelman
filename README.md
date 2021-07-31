@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Idan</a></b>.
-    <br>I'm a Computer Software Engineering Undergraduate Student from ISR - Jerusalem .<br>
+    <br>I'm a Computer Software Engineering Undergraduate Student from Israek- Jerusalem .<br>
 
 </samp>
 
@@ -18,6 +18,11 @@
  <b><h2 style="color: #fc6203">A B O U T &nbsp;M E</h2> </b>
 
 <img src="https://media3.giphy.com/media/ixzAG6ndhFIw5mS8LL/giphy.gif?cid=790b7611a55cbda791f900d1a41b652dad2e8d44622a1a92&rid=giphy.gif&ct=s" width="200"/>
+ 
+  <br>I'm a passionate software develeoper , and I find interest in  new challanges .<br>
+   Simulation of physical processes , scientific programming , creative programming []
+ <br> for impression of my current and past projects , you are welcome to browse my repository 
+ 
 
 Current Project: <a href="https://github.com/idankelman/Typing_Website">Typing Wbsite For Programmers.</a>
 
