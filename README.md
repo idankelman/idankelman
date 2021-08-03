@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Idan</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.smartr.me/public/profiles/idann.kelman">Idan</a></b>.
     <br>I'm a Computer Software Engineering Undergraduate Student from Israel- Jerusalem .<br>
 
 </samp>
